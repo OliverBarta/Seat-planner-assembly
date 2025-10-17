@@ -1,0 +1,5 @@
+Practice problem #1
+
+Make a program that uses GUI to let the user add names to a list and tells them
+if they've already added a name to the list. The user should be able to see the list
+through a text field. All this should be in GUI, no console.

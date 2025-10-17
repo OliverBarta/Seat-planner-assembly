@@ -1,0 +1,4 @@
+Practice problem #2:
+
+Make a simple Notes app that lets the user type a message into an input field and append it to a scrolling text area. 
+Make sure the user can also clear all notes or save the current note to a file.

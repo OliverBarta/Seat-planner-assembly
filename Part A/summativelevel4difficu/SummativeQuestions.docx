@@ -1,0 +1,9 @@
+Summative question
+
+Make a program where the user enters text into a text box and the text entered
+is printed to console. 
+
+To get a level 3 - add file input and output and use a text area for the user to 
+edit the text.
+
+To get a level 4 - add extra features like audio save and character count.
